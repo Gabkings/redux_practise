@@ -6,6 +6,7 @@ class PostForm extends Component {
             <div>
                 <form>
                     <div class="form-group">
+                        <p>Adding a New Post</p>
                     <label for="exampleInputEmail1">Email address</label>
                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" />
                     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
